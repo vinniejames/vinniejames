@@ -1,0 +1,24 @@
+{
+  "name": "vinniejames",
+  "version": "1.0.0",
+  "description": "Here's a fun fact...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinniejames/vinniejames.git"
+  },
+  "keywords": [
+    "vinniejames",
+    "vince",
+    "depalma"
+  ],
+  "author": "Vince DePalma <vincent.depalma@gmail.com> (http://vinniejames.de)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinniejames/vinniejames/issues"
+  },
+  "homepage": "https://github.com/vinniejames/vinniejames#readme"
+}
