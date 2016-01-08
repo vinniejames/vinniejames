@@ -23,7 +23,8 @@ Lead web developer and engineer on various external & internal web products:
 * Lead Engineer on Vungle Billboard, billboard.vungle.com (VentureBeat: http://bit.ly/1Oh0Te8) 
 * HTML5, MRAID interactive
 ad units. Webview compatible on iOS, Android, & Windows 10 
-* Custom WordPress theme & plugin development for vungle.com • Greenhouse job board API integration at vungle.com/careers/locations/ 
+* Custom WordPress theme & plugin development for vungle.com
+* Greenhouse job board API integration at vungle.com/careers/locations/ 
 * Project-management of ongoing web development & SEO 
 * Website localization and internationalization in 9 languages 
 
